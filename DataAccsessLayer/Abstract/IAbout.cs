@@ -7,11 +7,8 @@ using System.Threading.Tasks;
 
 namespace DataAccsessLayer.Abstract
 {
-    public interface IAbout
+    public interface IAbout:IGeneric<About>
     {
-        void Insert(About p);
-        void Delete(About p);
-        void Update(About p);
-        List<About> GetList();
+
     }
 }
