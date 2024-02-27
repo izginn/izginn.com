@@ -45,7 +45,6 @@
     <None Include="wwwroot\theme\css\font-awesome\webfonts\fa-solid-900.woff2" />
     <None Include="wwwroot\theme\css\main.css" />
     <None Include="wwwroot\theme\favicon.ico" />
-    <None Include="wwwroot\theme\images\avatar.jpg" />
     <None Include="wwwroot\theme\images\clients\client1.png" />
     <None Include="wwwroot\theme\images\clients\client2.png" />
     <None Include="wwwroot\theme\images\clients\client3.png" />

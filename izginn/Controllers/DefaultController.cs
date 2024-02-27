@@ -12,5 +12,6 @@ namespace izginn.Controllers
         {
             return PartialView();
         }
+        public PartialViewResult NavbarPartial() { return PartialView(); }
     }
 }
