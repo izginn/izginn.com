@@ -156,3 +156,6 @@ C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Default\N
 C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Shared\Components\AboutList\Default.cshtml.g.cs
 C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Shared\Components\ServiceList\Default.cshtml.g.cs
 C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Shared\Components\SkillList\Default.cshtml.g.cs
+C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Shared\Components\PortfolioList\Default.cshtml.g.cs
+C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Shared\Components\ExperienceList\Default.cshtml.g.cs
+C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Shared\Components\ContactList\Default.cshtml.g.cs

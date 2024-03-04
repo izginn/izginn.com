@@ -15,5 +15,6 @@ namespace EntityLayer.Concrete
         public string Date { get; set; }
         public string ImageUrl { get; set; }
         public string Describtion { get; set; }
+        public string Company { get; set; }
     }
 }
