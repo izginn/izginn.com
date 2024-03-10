@@ -159,3 +159,12 @@ C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Shared\Co
 C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Shared\Components\PortfolioList\Default.cshtml.g.cs
 C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Shared\Components\ExperienceList\Default.cshtml.g.cs
 C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Shared\Components\ContactList\Default.cshtml.g.cs
+C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Feature\Index.cshtml.g.cs
+C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Skill\Index.cshtml.g.cs
+C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Admin\PartialSideBar.cshtml.g.cs
+C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Admin\PartialFooter.cshtml.g.cs
+C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Admin\PartialNavbar.cshtml.g.cs
+C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Admin\PartialHead.cshtml.g.cs
+C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Admin\PartialScript.cshtml.g.cs
+C:\Users\izgin\source\repos\izginn\izginn\obj\Debug\net5.0\Razor\Views\Skill\AddSkill.cshtml.g.cs
